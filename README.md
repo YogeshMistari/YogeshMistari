@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh Mistari</h1>
-<h3 align="center">A passionate SQL/ PLSQL developer from India</h3>
+<h3 align="center">I am passionate SQL/ PLSQL developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Anti-Money Laundering**
 
-- 🌱 I’m currently learning **google cloud professional**
+- 🌱 I’m currently learning **Google Cloud Arcade Program 2025**
 
 - 👯 I’m looking to collaborate on **Google Cloud Professional Data Engineer**
 
@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshmistari&show_icons=true&locale=en" alt="yogeshmistari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmistari&" alt="yogeshmistari" /></p>
