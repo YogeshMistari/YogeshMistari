@@ -11,6 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Google Cloud Professional Data Engineer**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yogeshmistari02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogeshmistari02" height="30" width="40" /></a>
@@ -19,9 +20,12 @@
 <a href="https://instagram.com/yogeshmistari002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogeshmistari002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yogeshmistri2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yogeshmistri2" height="30" width="40" /></a>
 </p>
+<!-- Snake Game Repo View -->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
