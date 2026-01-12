@@ -174,7 +174,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <td align="center" width="120">
 📧<br>
 <b>Email</b><br>
-your-email@example.com
+yogeshmistari.career@gmail.com
 </td>
 
 <td align="center" width="120">
