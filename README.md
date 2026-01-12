@@ -172,9 +172,11 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 </td>
 
 <td align="center" width="120">
+<a href="mailto:your-email@example.com">
 📧<br>
 <b>Email</b><br>
-yogeshmistari.career@gmail.com
+<u>yogeshmistari.career@gmail.com</u>
+</a>
 </td>
 
 <td align="center" width="120">
