@@ -127,68 +127,65 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 <table>
 <tr>
-<td align="center" width="120">
+
+<td align="center" width="110">
 <a href="https://www.linkedin.com/in/yogeshmistari5491" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"><br>
-<b>LinkedIn</b>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"><br>
+LinkedIn
 </a>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="110">
 <a href="https://twitter.com/yogeshmistari02" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"><br>
-<b>Twitter</b>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36"><br>
+Twitter
 </a>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="110">
 <a href="https://www.hackerrank.com/yogeshmistri2" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"><br>
-<b>HackerRank</b>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="36"><br>
+HackerRank
 </a>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="110">
 <a href="https://www.credly.com/users/yogesh-mistari.d7f30dae" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/badge.png" width="40"><br>
-<b>Credly</b>
+<img src="https://img.icons8.com/color/48/000000/badge.png" width="36"><br>
+Credly
 </a>
 </td>
-</tr>
 
-<tr>
-<td align="center" width="120">
+<td align="center" width="110">
 <a href="https://facebook.com/yogeshmistari02" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"><br>
-<b>Facebook</b>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"><br>
+Facebook
 </a>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="110">
 <a href="https://instagram.com/yogeshmistari002" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"><br>
-<b>Instagram</b>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36"><br>
+Instagram
 </a>
 </td>
 
-<td align="center" width="120">
-<a href="mailto:your-email@example.com" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"><br>
-<b>Email</b><br>
-<u>your-email@example.com</u>
+<td align="center" width="130">
+<a href="mailto:yogeshmistari.career@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="36"><br>
+Email
 </a>
 </td>
 
-<td align="center" width="120">
+<td align="center" width="110">
 <a href="https://wa.me/+91-8600238569" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40"><br>
-<b>WhatsApp</b>
+<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="36"><br>
+WhatsApp
 </a>
 </td>
+
 </tr>
 </table>
-
-
 
 ---
 
