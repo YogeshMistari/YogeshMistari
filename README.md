@@ -175,7 +175,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <a href="mailto:your-email@example.com" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"><br>
 <b>Email</b><br>
-<u>yogeshmistari.career@gmail.com</u>
+<u>your-email@example.com</u>
 </a>
 </td>
 
@@ -186,21 +186,8 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 </a>
 </td>
 </tr>
-
-<tr>
-<td align="center" colspan="2">
-<a href="mailto:your-email@example.com?subject=Job%20Opportunity%20for%20PLSQL%20Developer">
-<img src="https://img.shields.io/badge/Hire%20Me-Open%20to%20Work-brightgreen?style=for-the-badge">
-</a>
-</td>
-
-<td align="center" colspan="2">
-<a href="YOUR_RESUME_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge">
-</a>
-</td>
-</tr>
 </table>
+
 
 
 ---
