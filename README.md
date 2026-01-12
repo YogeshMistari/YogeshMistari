@@ -103,6 +103,20 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
   <img src="https://github-profile-trophy.vercel.app/?username=YogeshMistari&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
+<h3>📈 Skill Proficiency</h3>
+
+SQL / PL-SQL  
+<img src="https://progress-bar.dev/90/" />
+
+Oracle Database  
+<img src="https://progress-bar.dev/85/" />
+
+Application Support  
+<img src="https://progress-bar.dev/88/" />
+
+Google Cloud  
+<img src="https://progress-bar.dev/65/" />
+
 ---
 
 <h3>🤝 Connect with Me</h3>
