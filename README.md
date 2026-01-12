@@ -33,7 +33,26 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 </ul>
 
 ---
+<h3>💼 Professional Summary</h3>
 
+<ul>
+  <li>⭐ 6+ years experience in PL/SQL & Application Support</li>
+  <li>🏦 Domain: Banking & Anti-Money Laundering (AML)</li>
+  <li>⚙️ Strong in SQL tuning, procedures, functions & production systems</li>
+  <li>☁️ Google Cloud Data Engineering learner</li>
+</ul>
+
+<h3>🧠 Core Skills</h3>
+
+<table>
+<tr><td><b>Databases</b></td><td>Oracle, PostgreSQL, MySQL, SQL Server</td></tr>
+<tr><td><b>Languages</b></td><td>SQL, PL/SQL, Python</td></tr>
+<tr><td><b>Cloud</b></td><td>Google Cloud, AWS</td></tr>
+<tr><td><b>Tools</b></td><td>Git, Linux, VS Code, SQL Developer, Selenium</td></tr>
+<tr><td><b>Domain</b></td><td>Banking, AML, Transaction Monitoring</td></tr>
+</table>
+
+---
 <h3>📂 Featured Projects</h3>
 
 <ul>
@@ -97,42 +116,74 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 </p>
 
 ---
-<h3>💼 Professional Summary</h3>
-
-<ul>
-  <li>⭐ 6+ years experience in PL/SQL & Application Support</li>
-  <li>🏦 Domain: Banking & Anti-Money Laundering (AML)</li>
-  <li>⚙️ Strong in SQL tuning, procedures, functions & production systems</li>
-  <li>☁️ Google Cloud Data Engineering learner</li>
-</ul>
-
-<h3>🧠 Core Skills</h3>
-
-<table>
-<tr><td><b>Databases</b></td><td>Oracle, PostgreSQL, MySQL, SQL Server</td></tr>
-<tr><td><b>Languages</b></td><td>SQL, PL/SQL, Python</td></tr>
-<tr><td><b>Cloud</b></td><td>Google Cloud, AWS</td></tr>
-<tr><td><b>Tools</b></td><td>Git, Linux, VS Code, SQL Developer, Selenium</td></tr>
-<tr><td><b>Domain</b></td><td>Banking, AML, Transaction Monitoring</td></tr>
-</table>
 
 ---
+<h3>📅 Contribution Activity</h3>
 
+<img src="https://ghchart.rshah.org/YogeshMistari" alt="GitHub Contributions"/>
+
+---
 <h3>🤝 Connect with Me</h3>
 
-<p align="left">
+<table>
+<tr>
+<td align="center" width="120">
 <a href="https://www.linkedin.com/in/yogeshmistari5491" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"><br>
+<b>LinkedIn</b>
 </a>
+</td>
 
+<td align="center" width="120">
 <a href="https://twitter.com/yogeshmistari02" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"><br>
+<b>Twitter</b>
 </a>
+</td>
 
+<td align="center" width="120">
 <a href="https://www.hackerrank.com/yogeshmistri2" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"><br>
+<b>HackerRank</b>
 </a>
-</p>
+</td>
+
+<td align="center" width="120">
+<a href="https://www.credly.com/users/yogesh-mistari.d7f30dae" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/badge.png" width="40"><br>
+<b>Credly</b>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<a href="https://facebook.com/yogeshmistari02" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"><br>
+<b>Facebook</b>
+</a>
+</td>
+
+<td align="center" width="120">
+<a href="https://instagram.com/yogeshmistari002" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"><br>
+<b>Instagram</b>
+</a>
+</td>
+
+<td align="center" width="120">
+📧<br>
+<b>Email</b><br>
+your-email@example.com
+</td>
+
+<td align="center" width="120">
+💼<br>
+<b>Open to</b><br>
+Opportunities
+</td>
+</tr>
+</table>
 
 ---
 
