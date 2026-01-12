@@ -97,15 +97,20 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 </p>
 
 ---
-
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YogeshMistari&show_icons=true&theme=default&cache_seconds=86400" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YogeshMistari&show_icons=true&hide_title=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YogeshMistari&theme=default" />
+  <img
+    src="https://streak-stats.demolab.com?user=YogeshMistari"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
