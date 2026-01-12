@@ -172,21 +172,36 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 </td>
 
 <td align="center" width="120">
-  <a href="mailto:yogeshmistari@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/><br>
-    <b>Email</b><br>
-    <u>yogeshmistari.career@gmail.com</u>
-  </a>
+<a href="mailto:your-email@example.com" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"><br>
+<b>Email</b><br>
+<u>yogeshmistari.career@gmail.com</u>
+</a>
 </td>
 
-
 <td align="center" width="120">
-💼<br>
-<b>Open to</b><br>
-Opportunities
+<a href="https://wa.me/+91-8600238569" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/whatsapp.png" width="40"><br>
+<b>WhatsApp</b>
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+<a href="mailto:your-email@example.com?subject=Job%20Opportunity%20for%20PLSQL%20Developer">
+<img src="https://img.shields.io/badge/Hire%20Me-Open%20to%20Work-brightgreen?style=for-the-badge">
+</a>
+</td>
+
+<td align="center" colspan="2">
+<a href="YOUR_RESUME_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge">
+</a>
 </td>
 </tr>
 </table>
+
 
 ---
 
