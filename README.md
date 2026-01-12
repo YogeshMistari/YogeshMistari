@@ -97,25 +97,24 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 </p>
 
 ---
-<h3>🏆 GitHub Achievements</h3>
+<h3>💼 Professional Summary</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YogeshMistari&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
+<ul>
+  <li>⭐ 6+ years experience in PL/SQL & Application Support</li>
+  <li>🏦 Domain: Banking & Anti-Money Laundering (AML)</li>
+  <li>⚙️ Strong in SQL tuning, procedures, functions & production systems</li>
+  <li>☁️ Google Cloud Data Engineering learner</li>
+</ul>
 
-<h3>📈 Skill Proficiency</h3>
+<h3>🧠 Core Skills</h3>
 
-SQL / PL-SQL  
-<img src="https://progress-bar.dev/90/" />
-
-Oracle Database  
-<img src="https://progress-bar.dev/85/" />
-
-Application Support  
-<img src="https://progress-bar.dev/88/" />
-
-Google Cloud  
-<img src="https://progress-bar.dev/65/" />
+<table>
+<tr><td><b>Databases</b></td><td>Oracle, PostgreSQL, MySQL, SQL Server</td></tr>
+<tr><td><b>Languages</b></td><td>SQL, PL/SQL, Python</td></tr>
+<tr><td><b>Cloud</b></td><td>Google Cloud, AWS</td></tr>
+<tr><td><b>Tools</b></td><td>Git, Linux, VS Code, SQL Developer, Selenium</td></tr>
+<tr><td><b>Domain</b></td><td>Banking, AML, Transaction Monitoring</td></tr>
+</table>
 
 ---
 
