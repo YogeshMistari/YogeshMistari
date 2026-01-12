@@ -97,23 +97,11 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 </p>
 
 ---
-<h3>📊 GitHub Stats</h3>
+<h3>🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YogeshMistari&show_icons=true&hide_title=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=YogeshMistari&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YogeshMistari"
-    alt="GitHub Streak"
-  />
-</p>
-
-
 
 ---
 
