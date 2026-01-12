@@ -123,19 +123,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <img src="https://ghchart.rshah.org/YogeshMistari" alt="GitHub Contributions"/>
 
 ---
-<h3>🤝 Connect with Me</h3>
-
-<style>
-.social-icon img {
-  filter: grayscale(100%);
-  transition: transform 0.25s ease, filter 0.25s ease;
-}
-
-.social-icon:hover img {
-  filter: grayscale(0%);
-  transform: scale(1.25);
-}
-</style>
+### 🤝 Connect with Me
 
 <table>
 <tr>
