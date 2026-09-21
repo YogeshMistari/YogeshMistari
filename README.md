@@ -16,7 +16,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <h3>👨‍💻 About Me</h3>
 
 <ul>
-  <li>💼 6+ years of experience in Application Support & Oracle PL/SQL</li>
+  <li>💼 5+ years of experience in Application Support & Oracle PL/SQL</li>
   <li>🏦 Working in Banking domain – Anti-Money Laundering (AML) systems</li>
   <li>⚙️ Strong in SQL performance tuning, procedures, functions, triggers & production support</li>
   <li>☁️ Actively preparing for Google Cloud Professional Data Engineer certification</li>
